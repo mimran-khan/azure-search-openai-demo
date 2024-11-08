@@ -1,6 +1,6 @@
 {
-    "pageTitle": "Azure OpenAI + AI Search",
-    "headerTitle": "Azure OpenAI + AI Search",
+    "pageTitle": "FinBot",
+    "headerTitle": "FinBot",
     "chat": "Chat",
     "qa": "Ask a question",
     "login": "Login",
@@ -37,16 +37,16 @@
     "chatEmptyStateTitle": "Chat with your data",
     "chatEmptyStateSubtitle": "Ask anything or try an example",
     "defaultExamples": {
-        "1": "What is included in my Northwind Health Plus plan that is not in standard?",
-        "2": "What happens in a performance review?",
-        "3": "What does a Product Manager do?",
+        "1": "What digital resources are available for community workers in banking?",
+        "2": "Can you guide me on how to open a savings account, including what documents I need?",
+        "3": "Are there any government schemes available for people like me that dont require paying a premium?",
         "placeholder": "Type a new question (e.g. does my plan cover annual eye exams?)"
     },
     "askTitle": "Ask your data",
     "gpt4vExamples": {
-        "1": "Compare the impact of interest rates and GDP in financial markets.",
-        "2": "What is the expected trend for the S&P 500 index over the next five years? Compare it to the past S&P 500 performance",
-        "3": "Can you identify any correlation between oil prices and stock market trends?",
+        "1": "How can I compare different savings accounts to find the best option for me?",
+        "2": "How do i open saving accounts?",
+        "3": "How can i get a easy collatrol free loan?",
         "placeholder": "Example: Does my plan cover annual eye exams?"
     },
     "generatingAnswer": "Generating answer",
